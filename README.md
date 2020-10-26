@@ -14,6 +14,9 @@ we see a normal sample image
 <img src="./img/output_1.jpg">
 the edges are detected by LAPLACIAN filter
 
+<img src="./img/output_2.jpg">
+on segmenting the image it higlights the inner space of the signs.
+
 ## Future work
 
 ```
