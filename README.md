@@ -2,6 +2,7 @@
 **Review 2 progress for J component of CSE-4019**
 
 **Project Name**: Traffic Sign Classification
+
 **Project Arena**: Laplacian filter and Segmentation
 
 ## Future work
